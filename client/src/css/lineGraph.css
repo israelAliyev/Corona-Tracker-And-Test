@@ -1,0 +1,11 @@
+.stats_graph{
+
+    height: auto;
+    width: 200px;
+    position: absolute;
+  top : 600px;
+    right: 80px;
+
+    box-shadow: rgba(0, 0, 0, 0.12) 0px 4px 12px;
+
+}

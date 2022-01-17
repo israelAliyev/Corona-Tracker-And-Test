@@ -1,0 +1,35 @@
+
+
+.map_header{
+
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+    justify-content: space-between;
+    width: 1000px;
+
+    position: absolute;
+    left: 60px;
+    top: 105px;
+
+
+}
+
+
+.map{
+
+    position: absolute;
+    left:60px;
+    top: 190px;
+
+
+}
+
+
+.header_text{
+    font-family: 'Poppins', sans-serif;
+
+    color : forestgreen;
+
+}
+

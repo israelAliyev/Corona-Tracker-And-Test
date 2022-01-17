@@ -1,0 +1,47 @@
+{
+  "data": [
+
+{
+      "question" : "Do you have any symptom of Dry Cough?",
+     "answer": "",
+    "description": "Since the corona virus directly affects the lower and upper respiratory tract in people, the first condition that causes complaints is dry cough. Dry cough is common in this type of situation. Frequent and endless cough is one of the first symptoms."
+    },
+ {
+      "question" : "Do you have symptom of High Fever?",
+         "answer": "",
+   "description": "One of the most important symptoms caused by Corona virus is high fever. This symptom is among the most important symptoms in the person. Since the corona virus causes various damages to the body, the body reacts to this situation with fever."
+
+    },
+  {
+      "question" : "Do you have symptom of Shortness of Breath?",
+    "answer": "",
+    "description": "One of the other important symptoms caused by the Corona virus is shortness of breath. Shortness of breath may not be seen in everyone, this situation generally causes respiratory distress and if the condition progresses, medical observation is required. If the job has underlying ailments, the likelihood of respiratory distress is even higher depending on that situation."
+    },
+    {
+      "question" : "Do you have symptom of Throat Ache?",
+      "answer": "",
+      "description": "A sore throat is a potential symptom of COVID-19.There are also complaints of sore throat caused by Corona virus. However, this situation is generally less common than symptoms of high fever and dry cough.Although the sore throat is mild, it can turn into a serious illness."
+    },
+    {
+      "question" : "Do you have symptom of Weakness, Fatigue, Muscle Pain?",
+      "answer": "",
+      "description": "Fatigue, which is among the symptoms of Corona virus, is a condition of the disease. According to the picture created by the corona virus in the body, it can cause muscle and joint pain."
+    },
+    {
+      "question" : "Do you have symptom of Diarrhea?",
+      "answer": "",
+      "description": "It seen rarely among Coronavirus symptoms but can be seen.Some people may develop gastrointestinal symptoms such as diarrhea, loss of appetite, or vomiting even in the absence of other flu-like symptoms."
+    },
+    {
+      "question" : "Do you have symptom of Hiccups?",
+      "answer": "",
+      "description": "It has been detected in some rare cases. Among the symptoms of coronavirus (coronavirus), hiccups are rarely seen, but they have been accepted by the world health organization."
+    },
+    {
+      "question" : "Do you have symptom of Nasal Congestion?",
+      "answer": "",
+      "description": "As in cold and flu, the virus causes nasal congestion in coronavirus cases. If nasal congestion is prolonged and does not pass, it is necessary to have a PCR test and to consult a specialist beforehand."
+    }
+  ]
+
+}
